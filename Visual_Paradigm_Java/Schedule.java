@@ -4,8 +4,8 @@ public class Schedule {
 
 	private int scheduleID;
 	private int courseID;
-	private String dateTime;
-	private String location;
+	private string dateTime;
+	private string location;
 
 	public void updateSchedule() {
 		// TODO - implement Schedule.updateSchedule

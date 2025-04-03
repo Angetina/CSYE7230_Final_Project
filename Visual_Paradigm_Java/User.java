@@ -3,9 +3,9 @@ package Package;
 public class User {
 
 	private int id;
-	private String name;
-	private String email;
-	private String phone;
+	private string name;
+	private string email;
+	private string phone;
 
 	public void login() {
 		// TODO - implement User.login

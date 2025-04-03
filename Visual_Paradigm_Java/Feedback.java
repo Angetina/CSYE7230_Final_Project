@@ -6,7 +6,7 @@ public class Feedback {
 	private int studentID;
 	private int teacherID;
 	private int rating;
-	private String comment;
+	private string comment;
 
 	public void submitFeedback() {
 		// TODO - implement Feedback.submitFeedback
